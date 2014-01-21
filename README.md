@@ -1,0 +1,4 @@
+karhu-rules
+===========
+
+Hackaton Contest
